@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460594554839",
+    "project_id": "appger-bd85c",
+    "storage_bucket": "appger-bd85c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460594554839:android:b8688a9ccd8f2a2ae9cd92",
+        "android_client_info": {
+          "package_name": "br.com.pereira.gerstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460594554839-tsch67athcuviv7011lbgf8743mkb1df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYnW2SQ8FE5jOp8F9eCeoTIQvC3A-b_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460594554839-tsch67athcuviv7011lbgf8743mkb1df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
